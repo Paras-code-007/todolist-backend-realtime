@@ -1,0 +1,8 @@
+we will supply our main page as single page and then make ajax post request from it
+
+dveleop this path flow data sent to server before display on frontend 
+because user data matters and user request matter and we dont want any changes on frontend without reflecting it on backend therfore backend comes first
+
+user van make changes on front by ediiting html of page source not bu using the page functionality thats why we keep a path flow like thsi req to backend then reponse wil make the changes on frontend 
+
+this workflow add on frontend and then send data to backend is a wrong functionality
